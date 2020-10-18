@@ -16,7 +16,7 @@ def key_for_min_value(name_hash)
   end
   if winner!= ""
     return winner
-  else 
+  else
     return nil
   end
 
